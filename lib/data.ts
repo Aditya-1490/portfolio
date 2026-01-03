@@ -157,7 +157,7 @@ export const projects: Project[] = [
       "CNN",
       "K-Means Clustering",
     ],
-    githubUrl: "https://github.com/Aditya-1490",
+    githubUrl: "https://github.com/Aditya-1490/football_analysis",
     image: "/projects/football-cv.png",
   },
 ]
